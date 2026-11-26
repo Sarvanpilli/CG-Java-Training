@@ -1,4 +1,4 @@
-public class String {
+public class Str {
     public static void main(String[] args) {
         conc(2,3);
 

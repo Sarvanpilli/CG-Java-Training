@@ -1,4 +1,9 @@
 package com.transport.model;
 
-public class Fueltype {
+public enum Fueltype {
+    DIESEL,
+    PETROL,
+    CNG,
+    ELECTRIC;
+
 }

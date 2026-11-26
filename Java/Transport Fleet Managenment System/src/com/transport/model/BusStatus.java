@@ -1,4 +1,7 @@
 package com.transport.model;
 
-public class BusStatus {
+public enum BusStatus {
+    ACTIVE,
+    INACTIVE,
+    MAINTENANCE;
 }
